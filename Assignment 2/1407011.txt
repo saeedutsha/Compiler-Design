@@ -1,0 +1,28 @@
+Header file.
+Header file.
+error: multiple declaration for 'c'.
+error: multiple declaration for 'd'.
+15
+65
+error: 'x' undeclared (first use in this function)
+Value of If condition : 10 
+0 1 2 3 4 5 6 7 8 9 
+10 9 8 7 6 
+1 2 3 4 5 6 7 
+
+Case No. : 2  and Result : 2 
+Program End.
+
+Total Number KeyWord:            10
+Total Number Arithmatic Operation: 4
+Total Number Unary Operation:      2
+Total Number Relational Operation: 2
+Total Number Logical Operation:    0
+Total Number Assignment Operation: 1
+Total Number Predefine Function:   1
+Total Number Puncuation:           3
+Total Number Branch:               4
+Total Number Header File:          2
+Total Number Integer Number:       22
+Total Number Float Number:         0
+Total Number Identifier:           37

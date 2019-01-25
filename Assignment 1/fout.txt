@@ -1,0 +1,19 @@
+No. of keywords: 32
+No. of identifiers: 40
+No. of arithmatic operation: 6
+No. of unary operation: 1
+No. of logical operation: 2
+No. of relational operation: 14
+No. of assignment operation: 6
+No. of punctuations: 119
+No. of header files: 2
+No. of library functions: 20
+No. of user defined functions: 2
+No. of loops: 2
+No. of switch cases: 1
+No. of conditional statements: 6
+No. of integer numbers: 15
+No. of float numbers: 6
+No. of strings: 13
+No. of single line comments: 6
+No. of multiple line comments: 1
